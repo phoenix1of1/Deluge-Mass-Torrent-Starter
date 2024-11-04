@@ -9,7 +9,7 @@ This repo aims to reduce that time of interruption by making use of the JSON-RPC
 
 Before starting, please carry out the following actions:
 
-- Download the latest release from
+- Download the latest release from [here](https://github.com/phoenix1of1/Deluge-Mass-Torrent-Starter/releases)
 - Extract to your prefered storage location.
 - Open deluge-presume.py and find the line: deluge_password = "your_password_here"
 - Enter your Deluge Web Interface password.
